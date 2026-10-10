@@ -39,7 +39,7 @@ class Program
 
             if (choice == "1")
             {
-                // Exploering costs energy but earns points
+                // Exploring costs energy but earns points
                 Console.WriteLine("\nYou discover a beautiful waterfall.");
 
                 //Subtract energy and add to the score.
